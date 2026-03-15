@@ -192,7 +192,7 @@ A total of **75 monitoring points** were placed throughout the domain to compreh
 
 <div align="center">
 
-![3D Model](images/img1_3d_model.png)
+![3D Model](3D_Model.png)
 
 *Figure 1: Isometric view of the computational domain showing two Vertiv Liebert DS 077A CRAC units (green), 10 HPE server racks in cold aisle/hot aisle configuration (blue, translucent), perforated floor tiles, and the raised-floor plenum. Total IT load: 140 kW.*
 
@@ -204,7 +204,7 @@ A total of **75 monitoring points** were placed throughout the domain to compreh
 
 <div align="center">
 
-![Rack Temperature](images/img2_rack_temp.png)
+![Rack Temperature](Rack_Temperature.png)
 
 *Figure 2: Temperature contour on server rack surfaces. Inlet faces show temperatures ranging from ~14 °C at the bottom to ~27 °C at the top, demonstrating vertical thermal stratification. The gradient confirms mild hot air recirculation over rack tops. All inlet temperatures remain within the ASHRAE A1 recommended envelope (18–27 °C).*
 
@@ -216,7 +216,7 @@ A total of **75 monitoring points** were placed throughout the domain to compreh
 
 <div align="center">
 
-![Pressure Horizontal](images/img3_pressure_horizontal.png)
+![Pressure Horizontal](Pressure_Horizontal.png)
 
 *Figure 3: Pressure distribution at mid-rack height (Z ≈ 1.0 m). The cold aisle exhibits a local low-pressure zone (~−2 to −3 Pa) created by server fans drawing air through the racks. Surrounding room space shows slightly positive gauge pressure (~0 to +0.7 Pa). This differential drives the front-to-back airflow through the servers.*
 
@@ -228,7 +228,7 @@ A total of **75 monitoring points** were placed throughout the domain to compreh
 
 <div align="center">
 
-![Velocity Vectors Vertical](images/img4_velocity_vectors.png)
+![Velocity Vectors Vertical](Velocity_Vectors_Vertical.png)
 
 *Figure 4: Velocity vectors on the vertical mid-Y plane showing the complete air circulation path. CRACs discharge at ~3 m/s into the plenum, air distributes laterally and rises through perforated tiles at ~1–1.5 m/s, flows through the cold aisle into the racks, and returns to CRAC intakes via large recirculation zones. Uniform plenum flow confirms effective distribution between both CRACs.*
 
@@ -240,7 +240,7 @@ A total of **75 monitoring points** were placed throughout the domain to compreh
 
 <div align="center">
 
-![Pressure Vertical](images/img5_pressure_vertical.png)
+![Pressure Vertical](Pressure_Vertical.png)
 
 *Figure 5: Pressure contour on the vertical mid-Y plane. The plenum maintains ~45–57 Pa positive pressure (red/orange) while the room operates near 0 to −7 Pa (blue). The sharp discontinuity at Z = 0 represents the ~50–60 Pa pressure drop across the perforated tiles — the primary driving force for cold air delivery into the room.*
 
@@ -252,7 +252,7 @@ A total of **75 monitoring points** were placed throughout the domain to compreh
 
 <div align="center">
 
-![Temperature Vertical](images/img6_temp_vertical.png)
+![Temperature Vertical](Temperature_Vertical.png)
 
 *Figure 6: Temperature contour on the vertical mid-Y plane. The plenum maintains a uniform 13 °C supply (blue). Cold air rises through tiles forming a cool zone in the lower cold aisle (14–16 °C). Temperature increases with height due to thermal stratification, reaching ~22–24 °C near the ceiling. The dome-shaped thermal boundary between cool supply and warm return air is clearly visible above the tile zone.*
 
@@ -264,7 +264,7 @@ A total of **75 monitoring points** were placed throughout the domain to compreh
 
 <div align="center">
 
-![Temperature Horizontal](images/img7_temp_horizontal.png)
+![Temperature Horizontal](Temperature_Horizontal.png)
 
 *Figure 7: Top-view temperature distribution at mid-rack height (Z = 1.0 m). The cold aisle between rack rows shows the lowest temperatures (~14–16 °C, blue), confirming effective tile-based air delivery. Hot aisles and room periphery reach ~24–26 °C (red/orange). The symmetric pattern confirms balanced cooling from both CRAC units. Slight temperature elevation at end-rack corners indicates minor recirculation zones.*
 
@@ -276,7 +276,7 @@ A total of **75 monitoring points** were placed throughout the domain to compreh
 
 <div align="center">
 
-![Velocity Horizontal](images/img8_velocity_horizontal.png)
+![Velocity Horizontal](Velocity_Horizontal.png)
 
 *Figure 8: Top-view velocity vectors at mid-rack height. Air enters the cold aisle from the tiles and is drawn into rack fronts at ~0.8–1.2 m/s (orange/red vectors). Exhaust exits rack rears and circulates toward the room perimeter before returning to CRAC intakes. The symmetric dual-vortex pattern confirms balanced CRAC operation. Peak velocities of ~1.9 m/s occur at the rack front faces.*
 
@@ -288,7 +288,7 @@ A total of **75 monitoring points** were placed throughout the domain to compreh
 
 <div align="center">
 
-![Monitor Points](images/img9_monitor_points.png)
+![Monitor Points](Monitor_Points.png)
 
 *Figure 9: 3D visualization of rack inlet temperature monitoring points. Color-coded spheres indicate local temperature at bottom (Z = 0.3 m), middle (Z = 1.0 m), and top (Z = 1.7 m) positions on each rack front face. Temperatures range from 15.0 °C (blue) to 19.8 °C (red). All monitoring points fall well within the ASHRAE A1 recommended range of 18–27 °C, confirming adequate cooling margin under normal dual-CRAC operation.*
 
